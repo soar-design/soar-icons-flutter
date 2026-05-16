@@ -1,0 +1,21 @@
+name: soar_icons
+description: Soar Icons — multi-style icon library for Flutter apps.
+version: 0.0.1
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10
+
+flutter:
+  assets:
+    - assets/icons/home/line.svg
+    - assets/icons/home/solid.svg
+    - assets/icons/home/remix.svg
+    - assets/icons/home/duo.svg
+    - assets/icons/home/flat.svg
