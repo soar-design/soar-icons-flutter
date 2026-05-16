@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48">
   <g>
-    <path fill="currentColor" fill-opacity="0.4" d="M16 45c5.6654 0 9.5477 -3.5663 9.963 -10.699 0.046 -0.7891 0.5012 -1.5107 1.1732 -1.9268C29.5561 30.8761 35 26.5551 35 18c0 -8 -6 -15 -16 -15S3 10 3 18c0 3.6576 1.48647 7.1294 2.64709 9.2827 0.80219 1.4884 1.33311 3.1301 1.40421 4.8193C7.40266 40.4499 9.63308 45 16 45Z" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M16 45c5.6654 0 9.5477 -3.5663 9.963 -10.699 0.046 -0.7891 0.5012 -1.5107 1.1732 -1.9268C29.5561 30.8761 35 26.5551 35 18c0 -8 -6 -15 -16 -15S3 10 3 18c0 3.6576 1.48647 7.1294 2.64709 9.2827 0.80219 1.4884 1.33311 3.1301 1.40421 4.8193C7.40266 40.4499 9.63308 45 16 45Z" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M31 45c7.732 0 14 -6.268 14 -14" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M31 39c4.4183 0 8 -3.5817 8 -8" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" d="M13.5 34.5s1.5 -2 1 -4.5 -5 -5.7596 -5 -11c0 -5.6549 3.5909 -10 9.5 -10 5.9091 0 9.5 4.478 9.5 10" stroke-width="1"></path>
+    <path fill="currentColor" fill-opacity="0.4" d="M16 45c5.6654 0 9.5477 -3.5663 9.963 -10.699 0.046 -0.7891 0.5012 -1.5107 1.1732 -1.9268C29.5561 30.8761 35 26.5551 35 18c0 -8 -6 -15 -16 -15S3 10 3 18c0 3.6576 1.48647 7.1294 2.64709 9.2827 0.80219 1.4884 1.33311 3.1301 1.40421 4.8193C7.40266 40.4499 9.63308 45 16 45Z" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M16 45c5.6654 0 9.5477 -3.5663 9.963 -10.699 0.046 -0.7891 0.5012 -1.5107 1.1732 -1.9268C29.5561 30.8761 35 26.5551 35 18c0 -8 -6 -15 -16 -15S3 10 3 18c0 3.6576 1.48647 7.1294 2.64709 9.2827 0.80219 1.4884 1.33311 3.1301 1.40421 4.8193C7.40266 40.4499 9.63308 45 16 45Z" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M31 45c7.732 0 14 -6.268 14 -14" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M31 39c4.4183 0 8 -3.5817 8 -8" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" d="M13.5 34.5s1.5 -2 1 -4.5 -5 -5.7596 -5 -11c0 -5.6549 3.5909 -10 9.5 -10 5.9091 0 9.5 4.478 9.5 10" stroke-width="3.429"></path>
   </g>
 </svg>

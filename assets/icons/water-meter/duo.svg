@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48">
   <g>
-    <path fill="#8fbffa" d="M46 29c0 -12.1503 -9.8497 -22 -22 -22S2 16.8497 2 29c0 3.2841 0.7196 6.4002 2.00972 9.1991 0.64534 1.4 2.33541 1.8618 3.76716 1.2903 2.90312 -1.159 6.85072 -2.3158 11.72802 -2.7786 -0.0033 -0.0699 -0.0049 -0.1402 -0.0049 -0.2108 0 -2.4853 2.0147 -4.5 4.5 -4.5s4.5 2.0147 4.5 4.5c0 0.0706 -0.0016 0.1409 -0.0049 0.2108 4.8772 0.4628 8.8249 1.6195 11.7284 2.7783 1.4317 0.5715 3.1217 0.1096 3.7669 -1.2904C45.2805 35.3999 46 32.284 46 29Z" stroke-width="1"></path>
-    <path fill="currentColor" fill-opacity="0.4" d="M28.5 36.5c0 2.4853 -2.0147 4.5 -4.5 4.5s-4.5 -2.0147 -4.5 -4.5S21.5147 32 24 32s4.5 2.0147 4.5 4.5Z" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M46 29c0 -12.1503 -9.8497 -22 -22 -22S2 16.8497 2 29c0 3.2841 0.7196 6.4002 2.00972 9.1991 0.64534 1.4 2.33541 1.8618 3.76716 1.2903 2.90312 -1.159 6.85072 -2.3158 11.72802 -2.7786 -0.0033 -0.0699 -0.0049 -0.1402 -0.0049 -0.2108 0 -2.4853 2.0147 -4.5 4.5 -4.5s4.5 2.0147 4.5 4.5c0 0.0706 -0.0016 0.1409 -0.0049 0.2108 4.8772 0.4628 8.8249 1.6195 11.7284 2.7783 1.4317 0.5715 3.1217 0.1096 3.7669 -1.2904C45.2805 35.3999 46 32.284 46 29Z" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m7 29 1 0" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m41 29 -1 0" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m24 12 0 1" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m36.0215 16.9795 -0.7071 0.7071" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m11.9785 16.9795 0.7071 0.7071" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M28.5 36.5c0 2.4853 -2.0147 4.5 -4.5 4.5s-4.5 -2.0147 -4.5 -4.5S21.5147 32 24 32s4.5 2.0147 4.5 4.5Z" stroke-width="1"></path>
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m27.1819 33.318 8.818 -8.818" stroke-width="1"></path>
+    <path fill="#8fbffa" d="M46 29c0 -12.1503 -9.8497 -22 -22 -22S2 16.8497 2 29c0 3.2841 0.7196 6.4002 2.00972 9.1991 0.64534 1.4 2.33541 1.8618 3.76716 1.2903 2.90312 -1.159 6.85072 -2.3158 11.72802 -2.7786 -0.0033 -0.0699 -0.0049 -0.1402 -0.0049 -0.2108 0 -2.4853 2.0147 -4.5 4.5 -4.5s4.5 2.0147 4.5 4.5c0 0.0706 -0.0016 0.1409 -0.0049 0.2108 4.8772 0.4628 8.8249 1.6195 11.7284 2.7783 1.4317 0.5715 3.1217 0.1096 3.7669 -1.2904C45.2805 35.3999 46 32.284 46 29Z" stroke-width="3.429"></path>
+    <path fill="currentColor" fill-opacity="0.4" d="M28.5 36.5c0 2.4853 -2.0147 4.5 -4.5 4.5s-4.5 -2.0147 -4.5 -4.5S21.5147 32 24 32s4.5 2.0147 4.5 4.5Z" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M46 29c0 -12.1503 -9.8497 -22 -22 -22S2 16.8497 2 29c0 3.2841 0.7196 6.4002 2.00972 9.1991 0.64534 1.4 2.33541 1.8618 3.76716 1.2903 2.90312 -1.159 6.85072 -2.3158 11.72802 -2.7786 -0.0033 -0.0699 -0.0049 -0.1402 -0.0049 -0.2108 0 -2.4853 2.0147 -4.5 4.5 -4.5s4.5 2.0147 4.5 4.5c0 0.0706 -0.0016 0.1409 -0.0049 0.2108 4.8772 0.4628 8.8249 1.6195 11.7284 2.7783 1.4317 0.5715 3.1217 0.1096 3.7669 -1.2904C45.2805 35.3999 46 32.284 46 29Z" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m7 29 1 0" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m41 29 -1 0" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m24 12 0 1" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m36.0215 16.9795 -0.7071 0.7071" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m11.9785 16.9795 0.7071 0.7071" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M28.5 36.5c0 2.4853 -2.0147 4.5 -4.5 4.5s-4.5 -2.0147 -4.5 -4.5S21.5147 32 24 32s4.5 2.0147 4.5 4.5Z" stroke-width="3.429"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m27.1819 33.318 8.818 -8.818" stroke-width="3.429"></path>
   </g>
 </svg>
