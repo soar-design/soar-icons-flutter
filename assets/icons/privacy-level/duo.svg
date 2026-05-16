@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48">
+  <g>
+    <path fill="currentColor" fill-opacity="0.4" d="M16.0001 42.0385v2.9624c-3.4491 0 -6.1546 -0.1859 -8.11665 -0.3973 -2.37498 -0.256 -4.12655 -2.1267 -4.35117 -4.5049C3.27199 37.343 3 33.2156 3 28c7.3356 0.5643 13.0001 6.6812 13.0001 14.0385Z" stroke-width="1"></path>
+    <path fill="currentColor" fill-opacity="0.4" d="M32 42.0385v2.9624c3.449 0 6.1546 -0.1859 8.1166 -0.3973 2.375 -0.256 4.1266 -2.1267 4.3512 -4.5049 0.2603 -2.7557 0.5323 -6.8831 0.5323 -12.0987C37.6645 28.5643 32 34.6812 32 42.0385Z" stroke-width="1"></path>
+    <path fill="currentColor" fill-opacity="0.4" d="M24 3c7.139 0 12.1977 0.26002 15.4415 0.51489 2.7006 0.21218 4.7388 2.35665 4.9212 5.05941C44.6489 12.8127 45 19.7041 45 28l-1.4188 -0.0563C32.6176 27.4153 24 18.3724 24 7.39609 24 18.3724 15.3824 27.4153 4.41882 27.9437L3 28c0 -8.2959 0.35113 -15.1873 0.63726 -19.42571 0.18246 -2.70275 2.22068 -4.84722 4.92127 -5.0594C11.8023 3.26002 16.861 3 24 3Z" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M45 28c0 -8.2959 -0.3511 -15.1873 -0.6373 -19.4257 -0.1824 -2.70276 -2.2206 -4.84723 -4.9212 -5.05941C36.1977 3.26002 31.139 3 24 3c-7.139 0 -12.1977 0.26002 -15.44147 0.51489 -2.70059 0.21218 -4.73881 2.35665 -4.92127 5.0594C3.35113 12.8127 3 19.7041 3 28" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M24 3v4.39609C24 18.3724 15.3824 27.4153 4.41882 27.9437L3.25 28" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M16.0001 42.0385v2.9624c-3.4491 0 -6.1546 -0.1859 -8.11665 -0.3973 -2.37498 -0.256 -4.12655 -2.1267 -4.35117 -4.5049C3.27199 37.343 3 33.2156 3 28c7.3356 0.5643 13.0001 6.6812 13.0001 14.0385Z" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M32 42.0385v2.9624c3.449 0 6.1546 -0.1859 8.1166 -0.3973 2.375 -0.256 4.1266 -2.1267 4.3512 -4.5049 0.2603 -2.7557 0.5323 -6.8831 0.5323 -12.0987C37.6645 28.5643 32 34.6812 32 42.0385Z" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M24 3v4.39609C24 18.3724 32.6176 27.4153 43.5812 27.9437L44.75 28" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M13.4998 8.5C13.4998 13.8485 13 21 3 28" stroke-width="1"></path>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M34.5 8.5c0 5.3485 0.4998 12.5 10.4998 19.5" stroke-width="1"></path>
+  </g>
+</svg>
