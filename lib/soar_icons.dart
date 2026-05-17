@@ -5,7 +5,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 part 'src/icons.g.dart';
 
-enum SoarIconStyle { line, solid, remix, duo, flat }
+enum SoarIconStyle { line, solid, bulk }
 
 class SoarIconData {
   const SoarIconData({
@@ -17,19 +17,6 @@ class SoarIconData {
   final String name;
   final SoarIconStyle defaultStyle;
   final Map<SoarIconStyle, String> paths;
-
-  SoarIconData call(SoarIconStyle style) => _Variant(this, style)._asData();
-}
-
-class _Variant {
-  _Variant(this.data, this.style);
-  final SoarIconData data;
-  final SoarIconStyle style;
-  SoarIconData _asData() => SoarIconData(
-        name: data.name,
-        defaultStyle: style,
-        paths: data.paths,
-      );
 }
 
 class SoarIcon extends StatelessWidget {

@@ -32,30 +32,32 @@ class Demo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
       children: [
-        SoarIcon(SoarIcons.home),
-        SoarIcon(SoarIcons.home, style: SoarIconStyle.solid, color: Colors.blue),
-        SoarIcon(SoarIcons.home, style: SoarIconStyle.duo, size: 32),
+        SoarIcon(SoarIcons.home01),
+        SoarIcon(SoarIcons.home01, style: SoarIconStyle.solid, color: Colors.blue),
+        SoarIcon(SoarIcons.home01, style: SoarIconStyle.bulk, size: 32),
       ],
     );
   }
 }
 ```
 
+Field names match Hugeicons one-to-one in camelCase: `SoarIcons.aArrowDown`, `SoarIcons.accountSetting01`, `SoarIcons.home01` … `SoarIcons.home13`, `SoarIcons.homeWifi`, etc. The full map is `SoarIcons.all`.
+
 ## Props
 
-| Prop            | Type                | Default                              |
-| --------------- | ------------------- | ------------------------------------ |
-| `data`          | `SoarIconData`      | required (positional, e.g. `SoarIcons.home`) |
-| `style`         | `SoarIconStyle?`    | the icon's default style (`line`)    |
-| `size`          | `double`            | `24`                                 |
-| `color`         | `Color?`            | `IconTheme.of(context).color`        |
-| `semanticLabel` | `String?`           | —                                    |
+| Prop            | Type                                       | Default                              |
+| --------------- | ------------------------------------------ | ------------------------------------ |
+| `data`          | `SoarIconData`                             | required (positional, e.g. `SoarIcons.home`) |
+| `style`         | `SoarIconStyle?` (`line`/`solid`/`bulk`)   | the icon's default style (`line`)    |
+| `size`          | `double`                                   | `24`                                 |
+| `color`         | `Color?`                                   | `IconTheme.of(context).color`        |
+| `semanticLabel` | `String?`                                  | —                                    |
 
 ### Notes
 
 - **Color**: defaults to `IconTheme.of(context).color`, so Material/Cupertino theming inherits without configuration. Pass `color: ...` to override.
-- **Two-tone**: `duo` and other two-tone variants derive the secondary tone from your single `color` at 40% opacity (baked into the SVG via `fill-opacity`). You don't pass two colors.
-- **Rendering**: `SvgPicture.asset` is used under the hood. The icons are bundled as assets within this package, so consumers don't need to declare them in their own `pubspec.yaml`.
+- **Bulk**: the secondary tone derives from your single `color` at 40% opacity (baked into the SVG via `fill-opacity`). You don't pass two colors.
+- **Rendering**: `SvgPicture.asset` under the hood. The icons are bundled as assets within this package, so consumers don't declare them in their own `pubspec.yaml`.
 
 ## Available icons
 
