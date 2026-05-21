@@ -41,13 +41,13 @@ class Demo extends StatelessWidget {
 }
 ```
 
-Field names match Hugeicons one-to-one in camelCase: `SoarIcons.aArrowDown`, `SoarIcons.accountSetting01`, `SoarIcons.home01` … `SoarIcons.home13`, `SoarIcons.homeWifi`, etc. The full map is `SoarIcons.all`.
+Field names are camelCase. When several variants exist for one concept, they're numbered: `SoarIcons.home01` through `SoarIcons.home13`, `SoarIcons.sofa01` through `SoarIcons.sofa03`, etc. The full map is `SoarIcons.all`.
 
 ## Props
 
 | Prop            | Type                                       | Default                              |
 | --------------- | ------------------------------------------ | ------------------------------------ |
-| `data`          | `SoarIconData`                             | required (positional, e.g. `SoarIcons.home`) |
+| `data`          | `SoarIconData`                             | required (positional, e.g. `SoarIcons.home01`) |
 | `style`         | `SoarIconStyle?` (`line`/`solid`/`bulk`)   | the icon's default style (`line`)    |
 | `size`          | `double`                                   | `24`                                 |
 | `color`         | `Color?`                                   | `IconTheme.of(context).color`        |
@@ -58,7 +58,3 @@ Field names match Hugeicons one-to-one in camelCase: `SoarIcons.aArrowDown`, `So
 - **Color**: defaults to `IconTheme.of(context).color`, so Material/Cupertino theming inherits without configuration. Pass `color: ...` to override.
 - **Bulk**: the secondary tone derives from your single `color` at 40% opacity (baked into the SVG via `fill-opacity`). You don't pass two colors.
 - **Rendering**: `SvgPicture.asset` under the hood. The icons are bundled as assets within this package, so consumers don't declare them in their own `pubspec.yaml`.
-
-## Available icons
-
-`SoarIcons` exposes a constant per icon (e.g. `SoarIcons.home`). The full map is `SoarIcons.all`.

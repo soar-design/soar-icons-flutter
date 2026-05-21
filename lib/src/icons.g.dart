@@ -22786,16 +22786,6 @@ class SoarIcons {
     },
   );
 
-  static const SoarIconData hugeicons = SoarIconData(
-    name: 'hugeicons',
-    defaultStyle: SoarIconStyle.line,
-    paths: {
-      SoarIconStyle.line: 'assets/icons/hugeicons/line.svg',
-      SoarIconStyle.solid: 'assets/icons/hugeicons/solid.svg',
-      SoarIconStyle.bulk: 'assets/icons/hugeicons/bulk.svg',
-    },
-  );
-
   static const SoarIconData humidity = SoarIconData(
     name: 'humidity',
     defaultStyle: SoarIconStyle.line,
@@ -53495,7 +53485,6 @@ class SoarIcons {
     'html-file-01': htmlFile01,
     'html-file-02': htmlFile02,
     'html-five': htmlFive,
-    'hugeicons': hugeicons,
     'humidity': humidity,
     'hut': hut,
     'hydro-power': hydroPower,
