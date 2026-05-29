@@ -2243,6 +2243,9 @@ flutter:
     - assets/icons/c-programming/line.svg
     - assets/icons/c-programming/solid.svg
     - assets/icons/c-programming/bulk.svg
+    - assets/icons/cabin/line.svg
+    - assets/icons/cabin/solid.svg
+    - assets/icons/cabin/bulk.svg
     - assets/icons/cabinet-01/line.svg
     - assets/icons/cabinet-01/solid.svg
     - assets/icons/cabinet-01/bulk.svg
@@ -3986,6 +3989,9 @@ flutter:
     - assets/icons/cotton-candy/line.svg
     - assets/icons/cotton-candy/solid.svg
     - assets/icons/cotton-candy/bulk.svg
+    - assets/icons/countryside/line.svg
+    - assets/icons/countryside/solid.svg
+    - assets/icons/countryside/bulk.svg
     - assets/icons/coupon-01/line.svg
     - assets/icons/coupon-01/solid.svg
     - assets/icons/coupon-01/bulk.svg

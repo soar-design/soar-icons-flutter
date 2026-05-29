@@ -7436,6 +7436,16 @@ class SoarIcons {
     },
   );
 
+  static const SoarIconData cabin = SoarIconData(
+    name: 'cabin',
+    defaultStyle: SoarIconStyle.line,
+    paths: {
+      SoarIconStyle.line: 'assets/icons/cabin/line.svg',
+      SoarIconStyle.solid: 'assets/icons/cabin/solid.svg',
+      SoarIconStyle.bulk: 'assets/icons/cabin/bulk.svg',
+    },
+  );
+
   static const SoarIconData cabinet01 = SoarIconData(
     name: 'cabinet-01',
     defaultStyle: SoarIconStyle.line,
@@ -13243,6 +13253,16 @@ class SoarIcons {
       SoarIconStyle.line: 'assets/icons/cotton-candy/line.svg',
       SoarIconStyle.solid: 'assets/icons/cotton-candy/solid.svg',
       SoarIconStyle.bulk: 'assets/icons/cotton-candy/bulk.svg',
+    },
+  );
+
+  static const SoarIconData countryside = SoarIconData(
+    name: 'countryside',
+    defaultStyle: SoarIconStyle.line,
+    paths: {
+      SoarIconStyle.line: 'assets/icons/countryside/line.svg',
+      SoarIconStyle.solid: 'assets/icons/countryside/solid.svg',
+      SoarIconStyle.bulk: 'assets/icons/countryside/bulk.svg',
     },
   );
 
@@ -51950,6 +51970,7 @@ class SoarIcons {
     'bus-03': bus03,
     'c': c,
     'c-programming': cProgramming,
+    'cabin': cabin,
     'cabinet-01': cabinet01,
     'cabinet-02': cabinet02,
     'cabinet-03': cabinet03,
@@ -52531,6 +52552,7 @@ class SoarIcons {
     'cosine-02': cosine02,
     'cottage': cottage,
     'cotton-candy': cottonCandy,
+    'countryside': countryside,
     'coupon-01': coupon01,
     'coupon-02': coupon02,
     'coupon-03': coupon03,
